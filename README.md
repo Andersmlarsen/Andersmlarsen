@@ -2,7 +2,7 @@
 
 I am a Software Engineering student at Aalborg University with a strong interest in designing and building reliable software systems.
 
-Through university projects and independent development, I have gained experience with full-stack development, backend systems, distributed computing, algorithms, databases, and programming language design.
+Through university projects, I have gained experience with full-stack development, backend systems, distributed computing, algorithms, databases, and programming language design.
 
 I enjoy understanding how software works beyond just writing code, from architecture and data structures to language semantics and system design.
 
